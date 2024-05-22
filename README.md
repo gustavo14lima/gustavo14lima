@@ -1,16 +1,30 @@
-## Hi there 👋
+## Olá! Me chamo Gustavo Lima 👋
+Sou estudande de Desenvolvimento Web, buscando aprender mais sobre a área de Desenvolvimento e outras áreas!
 
-<!--
-**gustavo14lima/gustavo14lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Atualmente, você pode estar me encotrarando aqui: 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gutilima161@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lima-b4374430b/)
 
-Here are some ideas to get you started:
+## 📖 Tecnologias que trabalho e estudo: 
+<div style="display: inline-block"> <br/>
+  <img align="center" alt="HTML_5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS_3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sistemas Operacionais que estudo:
+<div style="display: inline-block"> <br/>
+  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</div>
+
+## 🤓 Sobre mim:
+Faço um curso técnico de T.I no Colégio Victorino, fora da escola, estudo Desenvolvimento Web, na parte de Front-End para ser mais especifico. Sempre que for possível, colocarei meus projetos publicamente. Prático musculação como esporte principal. 
+
+  ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo14lima&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo14lima&layout=compact)
+
+## 👨‍💻 Obrigado por visitar o meu perfil!
+Agradeço por entrar em meu perfil. Espero que você tenha se interessado por algo. Fique à vontade para entrar em contato para trocar ideias!
