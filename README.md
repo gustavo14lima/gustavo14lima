@@ -2,7 +2,7 @@
 Sou estudande de Desenvolvimento Web, buscando aprender mais sobre a área de Desenvolvimento e outras áreas!
 
 ## 📫 Atualmente, você pode estar me encotrarando aqui: 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gutilima161@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=gutilima161@gmail.com&tf=cm)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lima-b4374430b/)
 
 ## 📖 Tecnologias que trabalho e estudo: 
