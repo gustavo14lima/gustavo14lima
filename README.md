@@ -1,7 +1,7 @@
 ## Olá! Me chamo Gustavo Lima 👋
-Sou estudande de Desenvolvimento Web, buscando aprender mais sobre a área de Desenvolvimento e outras áreas!
+Sou estudante de Desenvolvimento Web, buscando aprender mais sobre a área de Desenvolvimento e outras áreas!
 
-## 📫 Atualmente, você pode estar me encotrarando aqui: 
+## 📫 Atualmente, você pode estar me encontrar aqui: 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=gutilima161@gmail.com&tf=cm)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lima-b4374430b/)
 
@@ -9,8 +9,11 @@ Sou estudande de Desenvolvimento Web, buscando aprender mais sobre a área de De
 <div style="display: inline-block"> <br/>
   <img align="center" alt="HTML_5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS_3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
 ## 💻 Sistemas Operacionais que estudo:
