@@ -1,33 +1,61 @@
 ## Olá! Me chamo Gustavo Lima 👋
-Sou estudante de Desenvolvimento Web, buscando aprender mais sobre a área de Desenvolvimento e outras áreas!
+Tenho 18 anos e sou natural de São Paulo, SP. Concluí o ensino médio no Colégio Victorino, com curso técnico em Informática. Atualmente, estou cursando Ciência da Computação na SPTech. Sou apaixonado por tecnologia e, diariamente, estou aprimorando meus conhecimentos por meio de projetos e videoaulas.
 
 ## 📫 Atualmente, você pode estar me encontrar aqui: 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=gutilima161@gmail.com&tf=cm)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lima-b4374430b/)
+[![Email](https://api.devicons.dev.br/icon?icons=Gmail&size=48&theme=dark&perline=30)](https://mail.google.com/mail/u/0/?fs=1&to=gutilima161@gmail.com&tf=cm)
+[![Linkedin](https://api.devicons.dev.br/icon?icons=LinkedIn&size=48&theme=dark&perline=30)](https://www.linkedin.com/in/gustavo-lima-b4374430b/)
+[![Instagram](https://api.devicons.dev.br/icon?icons=Instagram&size=48&theme=dark&perline=30)](https://www.instagram.com/gustavo14lima_?igsh=cmFlM3dua2cyeWJn)
 
 ## 📖 Tecnologias que trabalho e estudo: 
-<div style="display: inline-block"> <br/>
-  <img align="center" alt="HTML_5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS_3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+### Linguagens de Programação
+<div style="display: inline-block">
+  <img align="center" alt="NodeJS" src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor">
+  <img align="center" alt="Java" src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor">
+  <img align="center" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor">
 </div>
 
-## 💻 Sistemas Operacionais que estudo:
-<div style="display: inline-block"> <br/>
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
-  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+### Front-End
+<div style="display: inline-block">
+  <img align="center" alt="HTML_5" src="https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor">
+  <img align="center" alt="CSS_3" src="https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor">
+  <img align="center" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor">
+  <img align="center" alt="BootStrp" src="https://api.devicons.dev.br/icon?icons=Bootstrap&size=48&theme=light&perline=30">
+</div>
+ 
+### Back-End
+<div style="display: inline-block">
+ <img align="center" alt="Spring Boot" src="https://api.devicons.dev.br/icon?icons=Spring&size=48&theme=dark&perline=30">
+ <img align="center" alt="Express" src="https://api.devicons.dev.br/icon?icons=ExpressJS&size=48&theme=light&perline=30">
 </div>
 
-## 🤓 Sobre mim:
-Faço um curso técnico de T.I no Colégio Victorino, fora da escola, estudo Desenvolvimento Web, na parte de Front-End para ser mais especifico. Sempre que for possível, colocarei meus projetos publicamente. Prático musculação como esporte principal. 
+### Banco de Dados
+<div style="display: inline-block">
+ <img align="center" alt="MySQL" src="https://api.devicons.dev.br/icon?icons=MySQL&size=48&theme=dark&perline=30">
+ <img align="center" alt="SQLite" src="https://api.devicons.dev.br/icon?icons=SQLite&size=48&theme=dark&perline=30">
+</div>
 
-  ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo14lima&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo14lima&layout=compact)
+### Versionamento de Código
+<div style="display: inline-block">
+ <img align="center" alt="Git" src="https://api.devicons.dev.br/icon?icons=Git&size=48&theme=dark&perline=30">
+ <img align="center" alt="GitHub" src="https://api.devicons.dev.br/icon?icons=Github&size=48&theme=dark&perline=30">
+</div>
+
+### Editores de Código e Ferramentas
+<div style="display: inline-block">
+  <img align="center" alt="VSCode" src="https://api.devicons.dev.br/icon?icons=VSCode&size=48&theme=dark&perline=30">
+  <img align="center" alt="Intellij Idea" src="https://api.devicons.dev.br/icon?icons=Idea&size=48&theme=dark&perline=30">
+  <img align="center" alt="Android Studio" src="https://api.devicons.dev.br/icon?icons=AndroidStudio&size=48&theme=dark&perline=30">
+</div>
+
+### Sistemas Operacionais que estudo:
+<div style="display: inline-block"> <br/>
+  <img align="center" alt="Windows" src="https://api.devicons.dev.br/icon?icons=Windows&size=48&theme=dark&perline=30">
+  <img align="center" alt="Ubuntu" src="https://api.devicons.dev.br/icon?icons=Ubuntu&size=48&theme=dark&perline=30">
+  <img align="center" alt="Debin" src="https://api.devicons.dev.br/icon?icons=Debian&size=48&theme=dark&perline=30">
+  <img align="center" alt="Arch Linux" src="https://api.devicons.dev.br/icon?icons=Arch&size=48&theme=dark&perline=30">
+</div>
+
+</br>
 
 ## 👨‍💻 Obrigado por visitar o meu perfil!
 Agradeço por entrar em meu perfil. Espero que você tenha se interessado por algo. Fique à vontade para entrar em contato para trocar ideias!
