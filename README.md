@@ -31,7 +31,6 @@ Tenho 18 anos e sou natural de São Paulo, SP. Concluí o ensino médio no Colé
 ### Banco de Dados
 <div style="display: inline-block">
  <img align="center" alt="MySQL" src="https://api.devicons.dev.br/icon?icons=MySQL&size=48&theme=dark&perline=30">
- <img align="center" alt="SQLite" src="https://api.devicons.dev.br/icon?icons=SQLite&size=48&theme=dark&perline=30">
 </div>
 
 ### Versionamento de Código
